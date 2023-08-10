@@ -46,7 +46,7 @@ While my current projects are tutorial-based, they reflect the foundation I'm bu
 I'm enthusiastic about establishing connections and taking my skills to new heights. Whether you're interested in teaming up or simply want to reach out:
 
 - 📧 Email: pmohr.code@gmail.com
-- 💬 LinkedIn: [Your LinkedIn Profile](link)
+- 💬 LinkedIn: 
 
 
 Let's forge ahead together, turning lines of code into remarkable creations! 🌟
