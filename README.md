@@ -15,7 +15,7 @@ Hello, I'm Pablo, a dedicated tech enthusiast on a mission to master Python and 
 Explore my collection of tutorial-inspired projects that reflect my journey and dedication:
 
 - **Python projects**: A compilation of projects focusing on fundamental Python concepts.
-  - 📂 [Link to Folder](link)
+  - 📂 [Link to Folder]((https://github.com/PabloMohr/PabloMohr/tree/main/TutorialProjects)
 
 These projects, though tutorial-driven, highlight my commitment to learning and laying a strong foundation. As I embark on more significant projects, the skills I've gained from these tutorials will play a crucial role.
 
