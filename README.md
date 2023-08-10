@@ -1,6 +1,6 @@
-# Welcome to [Your Name]'s Coding Quest! 🚀
+# Welcome to Pablo's Coding Quest! 🚀
 
-Hello, I'm [Your Name], a dedicated tech enthusiast on a mission to master Python and dive deep into the realm of SQL. As you explore my GitHub repository, you'll find a collection of projects that I've crafted based on tutorials, which reflect my current stage of learning. I believe in transparently sharing my journey, including the steps I've taken and the path I'm eager to pursue.
+Hello, I'm Pablo, a dedicated tech enthusiast on a mission to master Python and dive deep into the realm of SQL. As you explore my GitHub repository, you'll find a collection of projects that I've crafted based on tutorials, which reflect my current stage of learning. I believe in transparently sharing my journey, including the steps I've taken and the path I'm eager to pursue.
 
 ## About Me
 
