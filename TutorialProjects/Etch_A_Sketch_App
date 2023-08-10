@@ -1,0 +1,31 @@
+from turtle import Turtle, Screen
+
+tim = Turtle()
+screen = Screen()
+
+
+def move_direction(m_direction):
+    if m_direction == "forward":
+        tim.forward(10)
+    elif m_direction == "backward":
+        tim.back(10)
+
+def turn(direction):
+    if direction == "left":
+        tim.left(10)
+    elif direction == "right":
+        tim.right(10)
+
+def forward_turn(moving_direction):
+     if moving_direction == "right":
+         tim.right(10)
+         tim.forward(10)
+     elif moving_direction == "left":
+         tim.left(10)
+         tim.forward(10)
+
+def clear():
+    tim.clear()
+    tim.penup()
+    tim.home()
+    tim.pendown()
