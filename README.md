@@ -26,7 +26,7 @@ These projects, though tutorial-driven, highlight my commitment to learning and 
 I've invested time and effort into honing my skills through online courses and certifications. Here are some of my noteworthy achievements:
 
 - **Codecademy**: Completed Python Intermediate.
- - 🔗 [Certificate Link](https://www.codecademy.com/profiles/Pablo.Mohr/certificates/18580789eaba28f09e116f4fc2acec44)
+  - 🔗 [Certificate Link](https://www.codecademy.com/profiles/Pablo.Mohr/certificates/18580789eaba28f09e116f4fc2acec44)
 
 - **Dataquest**: 
    - Ongoing
