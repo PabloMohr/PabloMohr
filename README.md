@@ -26,12 +26,14 @@ These projects, though tutorial-driven, highlight my commitment to learning and 
 I've invested time and effort into honing my skills through online courses and certifications. Here are some of my noteworthy achievements:
 
 - **Codecademy**: Completed Python Intermediate.
-   - [Certificate Link](link)
+   - (https://www.codecademy.com/profiles/Pablo.Mohr/certificates/18580789eaba28f09e116f4fc2acec44)
 
-- **Dataquest**: Earned [Course Name] Certification
-   - [Certificate Link](link)
+- **Dataquest**: 
+   - Ongoing
  
-- **Udemy**: Completed 100 Days of python with Certification
+- **Udemy**: 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+  - https://www.udemy.com/certificate/UC-dab49c19-3c3f-45c4-bfd3-eddaeeb5baa8/   
+
 
 These certifications demonstrate my dedication to continuous learning and my proficiency in specific areas. I'm excited to apply the knowledge gained from these courses to real-world projects.
 
